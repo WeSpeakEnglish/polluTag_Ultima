@@ -29,8 +29,6 @@ From the bottom edge to the top of the board:
 
 The arrow printed on the silkscreen shows the **direction of maximum radiation**. Point the arrow at the gateway (or at the node, if used on the gateway side).
 
-The design have been simulated for FR-4, 1.6mm, 1 oz cupper
-
 ## Usage tips
 
 - Mount the antenna with the elements **in the same orientation as the antenna on the other end** of the link (usually vertical for typical whip antennas – i.e. rotate the board so the elements are vertical).
@@ -43,6 +41,7 @@ The design have been simulated for FR-4, 1.6mm, 1 oz cupper
 The `Gerbers/` folder contains everything needed for fabrication.
 
 - Standard FR-4, 2 layers
+- The design have been simulated for FR-4, 1.6mm, 1 oz copper
 - Order the board, solder the SMA edge/PCB-mount connector at the **ANT** footprint, and it's ready to use.
 - Note: the tuning depends on board thickness and dielectric constant – stick to the material and thickness the design was made for, or verify with a VNA after manufacturing.
 
