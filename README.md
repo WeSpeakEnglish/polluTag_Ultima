@@ -29,6 +29,8 @@ From the bottom edge to the top of the board:
 
 The arrow printed on the silkscreen shows the **direction of maximum radiation**. Point the arrow at the gateway (or at the node, if used on the gateway side).
 
+The design have been simulated for FR-4, 1.6mm, 1 oz cupper
+
 ## Usage tips
 
 - Mount the antenna with the elements **in the same orientation as the antenna on the other end** of the link (usually vertical for typical whip antennas – i.e. rotate the board so the elements are vertical).
