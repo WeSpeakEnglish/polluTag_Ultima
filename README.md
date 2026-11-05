@@ -42,6 +42,7 @@ The `Gerbers/` folder contains everything needed for fabrication.
 
 - Standard FR-4, 2 layers
 - The design have been simulated for FR-4, 1.6mm, 1 oz copper
+- Dimension: 180 mm* 179.9 mm
 - Order the board, solder the SMA edge/PCB-mount connector at the **ANT** footprint, and it's ready to use.
 - Note: the tuning depends on board thickness and dielectric constant – stick to the material and thickness the design was made for, or verify with a VNA after manufacturing.
 
