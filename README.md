@@ -1,6 +1,6 @@
-# polluTag Ultima – 868 MHz LoRa PCB Yagi Antenna
+# polluTag Ultima – 868 MHz LoRa PCB Antenna
 
-A directional PCB Yagi-Uda antenna for **868 MHz LoRa** (EU ISM band), designed for the polluTag project. The whole antenna is etched on a standard PCB, so it can be ordered from any PCB fab directly from the Gerber files in this repository.
+A directional PCB antenna for **868 MHz LoRa** (EU ISM band), designed for the pollutants.eu project. The whole antenna is etched on a standard PCB, so it can be ordered from any PCB fab directly from the Gerber files in this repository.
 
 ![3D view](3d-view.png)
 
